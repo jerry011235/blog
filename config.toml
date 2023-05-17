@@ -1,4 +1,4 @@
-title = "璀璨星空"
+title = "璀璨星空的博客"
 baseURL = 'https://jerry011235.github.io/'
 
 
@@ -60,7 +60,7 @@ enableEmoji = true
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "璀璨星空"
   name = "璀璨星空"
-  description = "highlightA fast, minimalistic Hugo theme with light and dark mode support, for running a personal site or blog"
+  description = "记录与分享"
 
 # Allow to override webmanifest options
 [params.webmanifest]
@@ -77,11 +77,7 @@ enableEmoji = true
 
 [[params.socialIcons]]
 name = "github"
-url = "https://github.com/hugo-sid"
-
-[[params.socialIcons]]
-name = "twitter"
-url = "https://twitter.com"
+url = "https://github.com/jerry011235"
 
 [[params.socialIcons]]
 name = "Rss"
