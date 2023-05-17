@@ -10,3 +10,10 @@ window.onscroll = () =>
     gttButton.style.opacity = "0";
   }
 }
+
+gttButton.addEventListener('click', () => {
+  window.scrollTo({
+    top: 0, 
+    behavior: "smooth"
+  })
+})
