@@ -3,7 +3,7 @@ baseURL = 'https://istarsky.eu.org'
 
 
 # This is what goes in <html lang="">
-languageCode = 'zh-cn'
+languageCode = 'zh'
 
 theme = "hugo-blog-awesome"
 
